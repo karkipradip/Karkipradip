@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **c,C++,C#, HTML & CSS**
+- 💬 Ask me about **C,C++,C#, HTML & CSS**
 
 - 📫 How to reach me **karkipradip598@gmail.com**
 
