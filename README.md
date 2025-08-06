@@ -1,19 +1,40 @@
 # Karkipradip
-[![MasterHead](https://camo.githubusercontent.com/0f9c7f556ba59ee0de9e0efb4969ce47739602a75a9b579dd35121813d82fba9/68747470733a2f2f64726a706c6f7065732e636f6d2f6d656469612f426c6f6742616e6e6572732f48656c6c6f2d576f726c645f42616e6e65722e706e67)
+<img   width="200" src="https://tse1.mm.bing.net/th/id/OIP.UWIfENX33yCWrqc_yO3evgHaEK?r=0&cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3">
+
 <h1 align="center">Hi 👋, I'm Pradip </h1>
 <h3 align="center">A passionate developer</h3>
-<Img align="right"alt="coding" width="400" Src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<Img align="right"alt="coding" width="400" Src="https://i0.wp.com/leadrpro.wpcomstaging.com/wp-content/uploads/2025/03/image.png?fit=1024%2C768&ssl=1"
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **C,C++, HTML & CSS**
+- 💬 Ask me about **Numpy, Pandas, Matplotlib, Seabon, ML.****
 
 - 📫 How to reach me **karkipradip598@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p align="left">
+  
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="80" height="40"/>
+  </a>
+ 
+</p>
